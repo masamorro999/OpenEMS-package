@@ -1,0 +1,10 @@
+Package: openems
+Version: 0.34-1
+Architecture: all
+Maintainer: MATEO SIERRA <mateo.sierra@c3.itm.edu.co>
+Installed-Size: 26
+Section: unknown
+Priority: optional
+Homepage: http://openems.de/start/index.php
+Description: Empaquetamiento de openEms
+ openEMS is a free and open electromagnetic field solver using the FDTD method
